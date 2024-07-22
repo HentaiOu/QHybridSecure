@@ -1,0 +1,44 @@
+# Encriptador Simple
+
+Este proyecto es un encriptador de texto básico que utiliza el método de cifrado César. Es una herramienta educativa diseñada para principiantes que quieran entender los conceptos básicos de la encriptación.
+
+## Descripción
+
+El Encriptador Simple permite a los usuarios encriptar y desencriptar mensajes utilizando el cifrado César. Este método reemplaza cada letra en el texto por otra letra que se encuentra un número fijo de posiciones más adelante en el alfabeto.
+
+## Características
+
+- Interfaz de usuario simple e intuitiva
+- Encriptación de texto utilizando el cifrado César
+- Desencriptación de mensajes previamente encriptados
+- Opción para elegir el número de desplazamiento (1-25)
+
+## Cómo usar
+
+1. Abre el archivo `index.html` en tu navegador web.
+2. Escribe tu mensaje en el campo de texto superior.
+3. Ingresa un número de desplazamiento entre 1 y 25 en el campo numérico.
+4. Haz clic en "Encriptar" para cifrar tu mensaje o "Desencriptar" para descifrar un mensaje encriptado.
+5. El resultado aparecerá en el campo de texto inferior.
+
+## Archivos del proyecto
+
+- `index.html`: Estructura de la página web
+- `styles.css`: Estilos para la interfaz de usuario
+- `script.js`: Lógica de JavaScript para la encriptación y desencriptación
+
+## Instalación
+
+No se requiere instalación. Simplemente descarga los archivos y abre `index.html` en tu navegador web.
+
+## Limitaciones
+
+Este encriptador utiliza un método de cifrado básico y no es seguro para información sensible. Se recomienda usarlo solo con fines educativos y de aprendizaje.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si tienes alguna sugerencia para mejorar este proyecto, no dudes en crear un pull request o abrir un issue.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
